@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings everyone!! Myself Ritik Prajapat and currently I'm doing computer engineering from Viva College of Diploma Engineering & Technology. I'm an aspiring UI Designer, web Development and I enjoy doing UI Design for Mobile App and Websites layout  I'm also a experienced Web developer and have built lots of websites using HTML, CSS, JavaScript, Bootstrap.
+   Greetings everyone!! Myself Ritik Prajapat and currently I'm doing computer engineering from Viva College of Diploma Engineering & Technology. I'm an aspiring UI Designer, web Development and I enjoy doing UI Design for Mobile App and Websites layout  I'm also a experienced Web developer and have built lots of websites using HTML, CSS, JavaScript, Bootstrap.
 Apart from this talking about my personality and hobbies, I like to interact and communicate with different people. I also like to watch anime.
 
 
