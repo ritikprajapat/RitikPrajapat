@@ -1,6 +1,6 @@
 # 💫 About Me:
 ❤️❤️ Greetings everyone!! Myself Ritik Prajapat.❤️❤️<br>
-🧑🏻‍💻🧑🏻‍💻 I'm currently doing Computer Engineering from Viva College of Diploma Engineering & Technology. <br>📱💻 I'm an aspiring UI Designer, web Development and  I enjoy doing UI Design for Mobile App and Websites layout.<br> ⚡⚡ Apart from this talking about my personality and hobbies, I like to interact and communicate with different people. <br>
+🧑🏻‍💻🧑🏻‍💻 I'm completed my Computer Engineering from Viva College of Diploma Engineering & Technology. <br>📱💻 I'm an aspiring UI Designer, web Development and  I enjoy doing UI Design for Mobile App and Websites layout.<br> ⚡⚡ Apart from this talking about my personality and hobbies, I like to interact and communicate with different people. <br>
 ❤️😊 I also like to watch anime.
 
 
