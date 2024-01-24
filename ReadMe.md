@@ -27,4 +27,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ritikprajapat&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/ritikprajapat/ritikprajapat/output/snake.svg" alt="Snake animation" />
+
+
+
